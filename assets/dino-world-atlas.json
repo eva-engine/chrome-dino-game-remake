@@ -1,0 +1,1354 @@
+{
+  "frames": {
+    "img_0000_图层-1": {
+      "name": "img_0000_图层-1",
+      "filename": "img_0000_图层-1",
+      "frame": {
+        "x": 280,
+        "y": 0,
+        "w": 88,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 90
+      }
+    },
+    "img_0001_图层-2": {
+      "name": "img_0001_图层-2",
+      "filename": "img_0001_图层-2",
+      "frame": {
+        "x": 277,
+        "y": 334,
+        "w": 92,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 92,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 27
+      }
+    },
+    "img_0002_图层-3": {
+      "name": "img_0002_图层-3",
+      "filename": "img_0002_图层-3",
+      "frame": {
+        "x": 80,
+        "y": 254,
+        "w": 92,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 92,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 68
+      }
+    },
+    "img_0003_图层-4": {
+      "name": "img_0003_图层-4",
+      "filename": "img_0003_图层-4",
+      "frame": {
+        "x": 236,
+        "y": 194,
+        "w": 92,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 92,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 92,
+        "h": 60
+      }
+    },
+    "img_0004_图层-5": {
+      "name": "img_0004_图层-5",
+      "filename": "img_0004_图层-5",
+      "frame": {
+        "x": 466,
+        "y": 320,
+        "w": 34,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 70
+      }
+    },
+    "img_0005_图层-6": {
+      "name": "img_0005_图层-6",
+      "filename": "img_0005_图层-6",
+      "frame": {
+        "x": 418,
+        "y": 260,
+        "w": 34,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 70
+      }
+    },
+    "img_0006_图层-7": {
+      "name": "img_0006_图层-7",
+      "filename": "img_0006_图层-7",
+      "frame": {
+        "x": 506,
+        "y": 0,
+        "w": 34,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 70
+      }
+    },
+    "img_0007_图层-8": {
+      "name": "img_0007_图层-8",
+      "filename": "img_0007_图层-8",
+      "frame": {
+        "x": 506,
+        "y": 70,
+        "w": 34,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 70
+      }
+    },
+    "img_0008_图层-9": {
+      "name": "img_0008_图层-9",
+      "filename": "img_0008_图层-9",
+      "frame": {
+        "x": 506,
+        "y": 140,
+        "w": 34,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 70
+      }
+    },
+    "img_0009_图层-10": {
+      "name": "img_0009_图层-10",
+      "filename": "img_0009_图层-10",
+      "frame": {
+        "x": 506,
+        "y": 210,
+        "w": 34,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 70
+      }
+    },
+    "img_0010_图层-11": {
+      "name": "img_0010_图层-11",
+      "filename": "img_0010_图层-11",
+      "frame": {
+        "x": 368,
+        "y": 0,
+        "w": 50,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 100
+      }
+    },
+    "img_0011_图层-12": {
+      "name": "img_0011_图层-12",
+      "filename": "img_0011_图层-12",
+      "frame": {
+        "x": 368,
+        "y": 200,
+        "w": 48,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 100
+      }
+    },
+    "img_0012_图层-13": {
+      "name": "img_0012_图层-13",
+      "filename": "img_0012_图层-13",
+      "frame": {
+        "x": 368,
+        "y": 100,
+        "w": 50,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 100
+      }
+    },
+    "img_0013_图层-14": {
+      "name": "img_0013_图层-14",
+      "filename": "img_0013_图层-14",
+      "frame": {
+        "x": 418,
+        "y": 0,
+        "w": 48,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 100
+      }
+    },
+    "img_0014_图层-15": {
+      "name": "img_0014_图层-15",
+      "filename": "img_0014_图层-15",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 104,
+        "h": 100
+      }
+    },
+    "img_0015_图层-16": {
+      "name": "img_0015_图层-16",
+      "filename": "img_0015_图层-16",
+      "frame": {
+        "x": 418,
+        "y": 100,
+        "w": 40,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 80
+      }
+    },
+    "img_0016_图层-17": {
+      "name": "img_0016_图层-17",
+      "filename": "img_0016_图层-17",
+      "frame": {
+        "x": 418,
+        "y": 180,
+        "w": 40,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 80
+      }
+    },
+    "img_0017_图层-18": {
+      "name": "img_0017_图层-18",
+      "filename": "img_0017_图层-18",
+      "frame": {
+        "x": 466,
+        "y": 0,
+        "w": 40,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 80
+      }
+    },
+    "img_0018_图层-19": {
+      "name": "img_0018_图层-19",
+      "filename": "img_0018_图层-19",
+      "frame": {
+        "x": 0,
+        "y": 254,
+        "w": 80,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      }
+    },
+    "img_0019_图层-20": {
+      "name": "img_0019_图层-20",
+      "filename": "img_0019_图层-20",
+      "frame": {
+        "x": 466,
+        "y": 80,
+        "w": 40,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 80
+      }
+    },
+    "img_0020_图层-21": {
+      "name": "img_0020_图层-21",
+      "filename": "img_0020_图层-21",
+      "frame": {
+        "x": 466,
+        "y": 160,
+        "w": 40,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 80
+      }
+    },
+    "img_0021_图层-22": {
+      "name": "img_0021_图层-22",
+      "filename": "img_0021_图层-22",
+      "frame": {
+        "x": 466,
+        "y": 240,
+        "w": 40,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 80
+      }
+    },
+    "img_0022_图层-23": {
+      "name": "img_0022_图层-23",
+      "filename": "img_0022_图层-23",
+      "frame": {
+        "x": 506,
+        "y": 280,
+        "w": 18,
+        "h": 54
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 54
+      }
+    },
+    "img_0023_图层-24": {
+      "name": "img_0023_图层-24",
+      "filename": "img_0023_图层-24",
+      "frame": {
+        "x": 349,
+        "y": 194,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 21
+      }
+    },
+    "img_0024_图层-25": {
+      "name": "img_0024_图层-25",
+      "filename": "img_0024_图层-25",
+      "frame": {
+        "x": 524,
+        "y": 280,
+        "w": 16,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 21
+      }
+    },
+    "img_0025_图层-26": {
+      "name": "img_0025_图层-26",
+      "filename": "img_0025_图层-26",
+      "frame": {
+        "x": 349,
+        "y": 215,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 21
+      }
+    },
+    "img_0026_图层-27": {
+      "name": "img_0026_图层-27",
+      "filename": "img_0026_图层-27",
+      "frame": {
+        "x": 337,
+        "y": 254,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 21
+      }
+    },
+    "img_0027_图层-28": {
+      "name": "img_0027_图层-28",
+      "filename": "img_0027_图层-28",
+      "frame": {
+        "x": 316,
+        "y": 275,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 21
+      }
+    },
+    "img_0028_图层-29": {
+      "name": "img_0028_图层-29",
+      "filename": "img_0028_图层-29",
+      "frame": {
+        "x": 334,
+        "y": 275,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 21
+      }
+    },
+    "img_0029_图层-30": {
+      "name": "img_0029_图层-30",
+      "filename": "img_0029_图层-30",
+      "frame": {
+        "x": 316,
+        "y": 296,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 21
+      }
+    },
+    "img_0030_图层-31": {
+      "name": "img_0030_图层-31",
+      "filename": "img_0030_图层-31",
+      "frame": {
+        "x": 334,
+        "y": 296,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 21
+      }
+    },
+    "img_0031_图层-32": {
+      "name": "img_0031_图层-32",
+      "filename": "img_0031_图层-32",
+      "frame": {
+        "x": 369,
+        "y": 334,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 21
+      }
+    },
+    "img_0032_图层-33": {
+      "name": "img_0032_图层-33",
+      "filename": "img_0032_图层-33",
+      "frame": {
+        "x": 387,
+        "y": 334,
+        "w": 18,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 21
+      }
+    },
+    "img_0033_图层-34": {
+      "name": "img_0033_图层-34",
+      "filename": "img_0033_图层-34",
+      "frame": {
+        "x": 368,
+        "y": 300,
+        "w": 38,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 21
+      }
+    },
+    "img_0034_图层-35": {
+      "name": "img_0034_图层-35",
+      "filename": "img_0034_图层-35",
+      "frame": {
+        "x": 506,
+        "y": 334,
+        "w": 21,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 21
+      }
+    },
+    "img_0035_图层-36": {
+      "name": "img_0035_图层-36",
+      "filename": "img_0035_图层-36",
+      "frame": {
+        "x": 506,
+        "y": 355,
+        "w": 21,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 21
+      }
+    },
+    "img_0036_图层-37": {
+      "name": "img_0036_图层-37",
+      "filename": "img_0036_图层-37",
+      "frame": {
+        "x": 506,
+        "y": 376,
+        "w": 21,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 21
+      }
+    },
+    "img_0037_图层-38": {
+      "name": "img_0037_图层-38",
+      "filename": "img_0037_图层-38",
+      "frame": {
+        "x": 506,
+        "y": 397,
+        "w": 21,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 21
+      }
+    },
+    "img_0038_图层-39": {
+      "name": "img_0038_图层-39",
+      "filename": "img_0038_图层-39",
+      "frame": {
+        "x": 506,
+        "y": 418,
+        "w": 21,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 21
+      }
+    },
+    "img_0039_图层-40": {
+      "name": "img_0039_图层-40",
+      "filename": "img_0039_图层-40",
+      "frame": {
+        "x": 328,
+        "y": 194,
+        "w": 21,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 21
+      }
+    },
+    "img_0040_图层-41": {
+      "name": "img_0040_图层-41",
+      "filename": "img_0040_图层-41",
+      "frame": {
+        "x": 328,
+        "y": 215,
+        "w": 21,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 21
+      }
+    },
+    "img_0041_图层-42": {
+      "name": "img_0041_图层-42",
+      "filename": "img_0041_图层-42",
+      "frame": {
+        "x": 316,
+        "y": 254,
+        "w": 21,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 21,
+        "h": 21
+      }
+    },
+    "img_0042_图层-43": {
+      "name": "img_0042_图层-43",
+      "filename": "img_0042_图层-43",
+      "frame": {
+        "x": 104,
+        "y": 0,
+        "w": 88,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 94
+      }
+    },
+    "img_0043_图层-44": {
+      "name": "img_0043_图层-44",
+      "filename": "img_0043_图层-44",
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 88,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 94
+      }
+    },
+    "img_0044_图层-45": {
+      "name": "img_0044_图层-45",
+      "filename": "img_0044_图层-45",
+      "frame": {
+        "x": 0,
+        "y": 100,
+        "w": 88,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 94
+      }
+    },
+    "img_0045_图层-46": {
+      "name": "img_0045_图层-46",
+      "filename": "img_0045_图层-46",
+      "frame": {
+        "x": 88,
+        "y": 100,
+        "w": 88,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 94
+      }
+    },
+    "img_0046_图层-47": {
+      "name": "img_0046_图层-47",
+      "filename": "img_0046_图层-47",
+      "frame": {
+        "x": 176,
+        "y": 100,
+        "w": 88,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 88,
+        "h": 94
+      }
+    },
+    "img_0047_图层-48": {
+      "name": "img_0047_图层-48",
+      "filename": "img_0047_图层-48",
+      "frame": {
+        "x": 280,
+        "y": 90,
+        "w": 80,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 86
+      }
+    },
+    "img_0048_图层-49": {
+      "name": "img_0048_图层-49",
+      "filename": "img_0048_图层-49",
+      "frame": {
+        "x": 0,
+        "y": 194,
+        "w": 118,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 60
+      }
+    },
+    "img_0049_图层-50": {
+      "name": "img_0049_图层-50",
+      "filename": "img_0049_图层-50",
+      "frame": {
+        "x": 118,
+        "y": 194,
+        "w": 118,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 60
+      }
+    },
+    "img_0050_图层-51": {
+      "name": "img_0050_图层-51",
+      "filename": "img_0050_图层-51",
+      "frame": {
+        "x": 0,
+        "y": 398,
+        "w": 55,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 55
+      }
+    },
+    "img_0051_图层-52": {
+      "name": "img_0051_图层-52",
+      "filename": "img_0051_图层-52",
+      "frame": {
+        "x": 55,
+        "y": 398,
+        "w": 55,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 55
+      }
+    },
+    "img_0052_图层-53": {
+      "name": "img_0052_图层-53",
+      "filename": "img_0052_图层-53",
+      "frame": {
+        "x": 216,
+        "y": 334,
+        "w": 61,
+        "h": 54
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 61,
+        "h": 54
+      }
+    },
+    "img_0053_图层-54": {
+      "name": "img_0053_图层-54",
+      "filename": "img_0053_图层-54",
+      "frame": {
+        "x": 172,
+        "y": 254,
+        "w": 72,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 64
+      }
+    },
+    "img_0054_图层-55": {
+      "name": "img_0054_图层-55",
+      "filename": "img_0054_图层-55",
+      "frame": {
+        "x": 244,
+        "y": 254,
+        "w": 72,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 64
+      }
+    },
+    "img_0055_图层-56": {
+      "name": "img_0055_图层-56",
+      "filename": "img_0055_图层-56",
+      "frame": {
+        "x": 0,
+        "y": 334,
+        "w": 72,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 64
+      }
+    },
+    "img_0056_图层-57": {
+      "name": "img_0056_图层-57",
+      "filename": "img_0056_图层-57",
+      "frame": {
+        "x": 72,
+        "y": 334,
+        "w": 72,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 64
+      }
+    },
+    "img_0057_图层-58": {
+      "name": "img_0057_图层-58",
+      "filename": "img_0057_图层-58",
+      "frame": {
+        "x": 144,
+        "y": 334,
+        "w": 72,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 64
+      }
+    }
+  },
+  "animations": {
+    "symbol": [
+      "img_0000_图层-1",
+      "img_0001_图层-2",
+      "img_0002_图层-3",
+      "img_0003_图层-4",
+      "img_0004_图层-5",
+      "img_0005_图层-6",
+      "img_0006_图层-7",
+      "img_0007_图层-8",
+      "img_0008_图层-9",
+      "img_0009_图层-10",
+      "img_0010_图层-11",
+      "img_0011_图层-12",
+      "img_0012_图层-13",
+      "img_0013_图层-14",
+      "img_0014_图层-15",
+      "img_0015_图层-16",
+      "img_0016_图层-17",
+      "img_0017_图层-18",
+      "img_0018_图层-19",
+      "img_0019_图层-20",
+      "img_0020_图层-21",
+      "img_0021_图层-22",
+      "img_0022_图层-23",
+      "img_0023_图层-24",
+      "img_0024_图层-25",
+      "img_0025_图层-26",
+      "img_0026_图层-27",
+      "img_0027_图层-28",
+      "img_0028_图层-29",
+      "img_0029_图层-30",
+      "img_0030_图层-31",
+      "img_0031_图层-32",
+      "img_0032_图层-33",
+      "img_0033_图层-34",
+      "img_0034_图层-35",
+      "img_0035_图层-36",
+      "img_0036_图层-37",
+      "img_0037_图层-38",
+      "img_0038_图层-39",
+      "img_0039_图层-40",
+      "img_0040_图层-41",
+      "img_0041_图层-42",
+      "img_0042_图层-43",
+      "img_0043_图层-44",
+      "img_0044_图层-45",
+      "img_0045_图层-46",
+      "img_0046_图层-47",
+      "img_0047_图层-48",
+      "img_0048_图层-49",
+      "img_0049_图层-50",
+      "img_0050_图层-51",
+      "img_0051_图层-52",
+      "img_0052_图层-53",
+      "img_0053_图层-54",
+      "img_0054_图层-55",
+      "img_0055_图层-56",
+      "img_0056_图层-57",
+      "img_0057_图层-58"
+    ]
+  },
+  "meta": {
+    "app": "EVA Sprites Image",
+    "version": "2.0",
+    "image": "sprite.png",
+    "format": "RGBA4444",
+    "size": {
+      "w": 540,
+      "h": 453
+    },
+    "scale": "1",
+    "smartupdate": ""
+  }
+}

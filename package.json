@@ -1,0 +1,10 @@
+{
+  "name": "Dino-Run",
+  "version": "0.0.0-alpha",
+  "scripts": {
+    "start": "serve ./ -l 8080 -C"
+  },
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}

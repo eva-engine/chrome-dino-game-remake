@@ -1,0 +1,158 @@
+{
+  "frames": {
+    "img_0042_图层-43": {
+      "name": "img_0042_图层-43",
+      "filename": "img_0042_图层-43",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 940,
+        "h": 940
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 940,
+        "h": 940
+      },
+      "sourceSize": {
+        "w": 940,
+        "h": 940
+      }
+    },
+    "img_0043_图层-44": {
+      "name": "img_0043_图层-44",
+      "filename": "img_0043_图层-44",
+      "frame": {
+        "x": 940,
+        "y": 0,
+        "w": 880,
+        "h": 940
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 880,
+        "h": 940
+      },
+      "sourceSize": {
+        "w": 880,
+        "h": 940
+      }
+    },
+    "img_0044_图层-45": {
+      "name": "img_0044_图层-45",
+      "filename": "img_0044_图层-45",
+      "frame": {
+        "x": 1820,
+        "y": 0,
+        "w": 880,
+        "h": 940
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 880,
+        "h": 940
+      },
+      "sourceSize": {
+        "w": 880,
+        "h": 940
+      }
+    },
+    "img_0045_图层-46": {
+      "name": "img_0045_图层-46",
+      "filename": "img_0045_图层-46",
+      "frame": {
+        "x": 0,
+        "y": 940,
+        "w": 880,
+        "h": 940
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 880,
+        "h": 940
+      },
+      "sourceSize": {
+        "w": 880,
+        "h": 940
+      }
+    },
+    "img_0046_图层-47": {
+      "name": "img_0046_图层-47",
+      "filename": "img_0046_图层-47",
+      "frame": {
+        "x": 880,
+        "y": 940,
+        "w": 880,
+        "h": 940
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 880,
+        "h": 940
+      },
+      "sourceSize": {
+        "w": 880,
+        "h": 940
+      }
+    },
+    "img_0047_图层-48": {
+      "name": "img_0047_图层-48",
+      "filename": "img_0047_图层-48",
+      "frame": {
+        "x": 1760,
+        "y": 940,
+        "w": 880,
+        "h": 940
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 880,
+        "h": 940
+      },
+      "sourceSize": {
+        "w": 880,
+        "h": 940
+      }
+    }
+  },
+  "animations": {
+    "symbol": [
+      "img_0042_图层-43",
+      "img_0043_图层-44",
+      "img_0044_图层-45",
+      "img_0045_图层-46",
+      "img_0046_图层-47",
+      "img_0047_图层-48"
+    ]
+  },
+  "meta": {
+    "app": "EVA Sprites Image",
+    "version": "2.0",
+    "image": "sprite.png",
+    "format": "RGBA4444",
+    "size": {
+      "w": 2700,
+      "h": 1880
+    },
+    "scale": "1",
+    "smartupdate": ""
+  }
+}

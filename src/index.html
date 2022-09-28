@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#fff" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Dino Run!</title>
+    <link href="./styles/reset.css" rel="stylesheet" type="text/css" />
+    <link href="./styles/index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="main">
+      <div id="error">
+        <div id="main-message">
+          <h1><span>未连接到互联网</span></h1>
+          <div id="suggestions-list">
+            <p>请试试以下办法：</p>
+            <ul>
+              <li>检查网线、调制解调器和路由器</li>
+              <li>重新连接到 Wi-Fi 网络</li>
+            </ul>
+          </div>
+          <div class="error-code">ERR_INTERNET_DISCONNECTED</div>
+          <div id="disclaimer">注：此游戏Demo仅供学习使用，不可做商业用途。</div>
+        </div>
+      </div>
+      <canvas id="game-scene"></canvas>
+    </div>
+    <script src="./lib/pixijs/pixi.min.js"></script>
+    <script src="./lib/evajs/eva.min.js"></script>
+    <script src="./lib/evajs/rendererAdapter.min.js"></script>
+    <script src="./lib/evajs/plugin.renderer.min.js"></script>
+    <script src="./lib/evajs/plugin.renderer.img.min.js"></script>
+    <script src="./lib/evajs/plugin.renderer.sprite.min.js"></script>
+    <script src="./lib/evajs/plugin.renderer.spriteAnimation.min.js"></script>
+    <script src="./lib/evajs/plugin.renderer.matterjs.min.js"></script>
+    <script src="./lib/evajs/plugin.renderer.event.min.js"></script>
+    <script src="./lib/evajs/plugin.renderer.sound.min.js"></script>
+    <script src="./lib/evajs/plugin.renderer.transition.min.js"></script>
+    <script src="./game/dep.js"></script>
+    <script src="./game/resource/dino.js"></script>
+    <script src="./game/resource/kitty.js"></script>
+    <script src="./game/sound/soundManager.js"></script>
+    <script src="./game/scaffold.js"></script>
+    <script src="./game/world.js"></script>
+    <script src="./game/hero.js"></script>
+    <script src="./game/enemy/enemyManager.js"></script>
+    <script src="./game/bg/sky.js"></script>
+    <script src="./game/bg/floor.js"></script>
+    <script src="./game/panel/score.js"></script>
+    <script src="./game/panel/gameOverTitle.js"></script>
+    <script src="./game/panel/panel.js"></script>
+    <script src="./game/start.js"></script>
+  </body>
+</html>
